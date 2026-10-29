@@ -1,0 +1,14 @@
+{
+  "name": "港币汇率提醒",
+  "short_name": "汇率提醒",
+  "description": "观察港币兑人民币参考汇率并在达到目标时提醒",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f3",
+  "theme_color": "#f4f6f3",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
